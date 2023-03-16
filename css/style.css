@@ -1,0 +1,293 @@
+.bg-head {
+	background-image: url(../img/bg.jpg);
+	/*background-image: url(../img/back.svg);*/
+	width: 100%;
+	height: 950px;
+	background-repeat: no-repeat;
+	justify-content: cover;
+	/*position: relative;*/
+}
+.bg-head2 {
+	position: relative;
+
+}
+.back-img {
+	width: 100%;
+}
+.full-sect {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+/*header*/
+.logo {
+	margin: 53px 0 0 152px;
+	display: inline-block;
+}
+.logo-icon {
+	width: 51px;
+	height: 48px;
+	display: inline-block;
+}
+.logo-title {
+	font-size: 38px;
+	color: #000000;
+	display: inline-block;
+}
+.logo-title::before {
+	content: "Apps";
+	color: #0D13D7;
+	margin: 0 8px;
+}
+.nav {
+	display: inline-block;
+	margin-left: 316px;
+	vertical-align: top;
+}
+.wrapper-nav {
+	display: flex;
+	justify-content: space-around;
+}
+.nav-li {
+	font-size: 22px;
+	margin-top: 63px;
+	margin-right: 35px;
+}
+.nav-a {
+	color: #FFFFFF;
+}
+.contact-li {
+	background-color: #020E5D;
+	width: 120px;
+	height: 60px;
+	border-radius: 40px;
+	padding: 17px 0 0 14px;
+	margin-top: 45px;
+	/*vertical-align: top;*/
+}
+.contact-li-a {
+	font-size: 20px;
+	color: #fff;
+}
+.section1 {
+	margin: 150px 0 0 153px;
+	display: inline-block;
+}
+.sect-title {
+	width: 665px;
+	font-size: 55px;
+	color: white;
+}
+.sect-text {
+	width: 670px;
+	height: 140px;
+	font-size: 24px;
+	color: white;
+	margin-top: 24px;
+}
+.click-div {
+	width: 230px;
+	height: 90px;
+	background-color: white;
+	border-radius: 10px;
+	padding: 30px 0 0 30px;
+	display: inline-block;
+	margin-top: 40px;
+}
+.click1 {
+	font-size: 24px;
+	display: inline-block;
+	color: black;
+}
+.click-icon {
+	margin-left: 10px;
+}
+.click-div2 {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 40px;
+}
+.click2 {
+	display: inline-block;
+	font-size: 24px;
+	color: white;
+	margin: 30px 0 0 30px;
+	vertical-align: top;
+}
+.click-icon2 {
+	display: inline-block;
+	vertical-align: top;
+	margin: 30px 0 0 0px;
+}
+.phones {
+	display: inline-block;
+	vertical-align: top;
+}
+.iphone1 {
+	
+	width: 230px;
+}
+.iphone3 {
+	/*margin-left: -180px;*/
+	width: 230px;
+}
+.iphone2 {
+	/*margin-top: 100px;*/
+	/*margin-left: -180px;*/
+	width: 300px;
+}
+.container2 {
+	width: 1400px;
+	margin: 100px auto 0 auto;
+}
+.sect2-title {
+	width: 750px;
+	margin: 0 auto;
+	font-size: 55px;
+	color: black;
+}
+.sect2-text {
+	width: 850px;
+	margin: 0 auto;
+	font-size: 24px;
+	color: black;
+	margin-top: 24px;
+}
+.boxes {
+	margin-top: 48px;
+	display: flex;
+	justify-content: space-around;
+}
+.box-img {
+	border-radius: 30px;
+	width: 420px;
+}
+/*section 3*/
+.sect3 {
+	margin-top: 32px;
+}
+.title3 {
+	margin: 0 auto;
+	width: 1200px;
+}
+.sect3-title {
+	font-size: 55px;
+	margin: 0 auto;
+	width: 200px;
+}
+.sect3-images {
+	display: inline-block;
+	margin-top: 120px;
+}
+.sect3-text {
+	font-size: 24px;
+	margin: 15px auto;
+	color: #707070;
+	width: 800px;
+}
+.sect3-img2 {
+	margin: -80px 0 0 -450px;
+	vertical-align: top;
+}
+.sect3-info {
+	display: inline-block;
+	vertical-align: top;
+	width: 535px;
+	margin: 200px 0 0 100px;
+
+}
+.sect3-minititle {
+	font-size: 42px;
+	width: 395px;
+}
+.sect3-mini-text {
+	color: #707070;
+	font-size: 24px;
+	width: 535px;
+	height: 116px;
+	margin-top: 25px;
+}
+.sect3-click {
+	margin-top: 24px;
+	width: 245px;
+	border-color: black;
+	border-style: groove;
+	border-radius: 10px;
+}
+.sect3-click-text {
+	font-size: 24px;
+	color: #707070;
+	display: inline-block;
+	vertical-align: top;
+}
+.sect3-icon {
+	display: inline-block;
+	width: 40px;
+	vertical-align: top;
+	margin-top: -7px;
+}
+.sect4 {
+	margin-top: 48px;
+}
+.sect4-cont {
+	margin: 0 auto;
+	width: 1000px;
+}
+.sect4-title {
+	font-size: 55px;
+	margin: 0 auto;
+	width: 320px;
+
+}
+.sect4-text {
+	font-size: 24px;
+	color: #707070;
+	margin: 24px auto;
+	width: 850px;
+}
+.sect4-images {
+	margin-top: 50px;
+	display: flex;
+	justify-content: space-around;
+}
+.sect-img {
+	width: 450px;
+}
+/*footer*/
+.footer-bg {
+	background-color: #EBEBF8;
+	width: 100%;
+	padding-top: 152px;
+}
+.footer-sect1{
+	display: inline-block;
+}
+.foot-logo {
+	margin-left: 150px;
+}
+.icons-div {
+	margin-left: 150px;
+}
+.footer-info {
+	vertical-align: top;
+	display: inline-block;
+	margin-left: 290px;
+}
+.footer-list-title {
+	color: black;
+	font-size: 20px;
+	margin-bottom: 50px;
+}
+.footer-list {
+
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+.footer-list-a {
+	color: #8A8A8A;
+}
+.footer-info2 {
+		vertical-align: top;
+	display: inline-block;
+	margin-left: 200px;
+}
