@@ -251,7 +251,7 @@
 	justify-content: space-around;
 }
 .sect-img {
-	width: 450px;
+	width: 400px;
 }
 /*footer*/
 .footer-bg {
@@ -267,6 +267,7 @@
 }
 .icons-div {
 	margin-left: 150px;
+	margin-top: 70px;
 }
 .footer-info {
 	vertical-align: top;
